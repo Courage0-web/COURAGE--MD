@@ -1,7 +1,7 @@
 {
-    "name": "June-X Ultra",
+    "name": "COURAGE-MD",
     "version": "2.8.2",
-    "description": "WhatsApp MD-Style Multi-Command Bot by Supreme",
+    "description": "WhatsApp MD-Style Multi-Command Bot by Tungaza",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -11,7 +11,7 @@
     },
     "keywords": [
         "whatsapp bot",
-        "June-Ultra",
+        "COURAGE-MD",
         "bot",
         "baileys",
         "library"
