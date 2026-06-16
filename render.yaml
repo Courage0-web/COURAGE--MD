@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: june-x-ultra
+    name: COURAGE-MD
     runtime: node
     plan: free
     buildCommand: npm install --legacy-peer-deps
@@ -8,6 +8,6 @@ services:
     autoDeploy: true
     envVars:
       - key: SESSION_ID
-        value: Ultra-X:~<base64>  # Replace with your actual session string
+        value: COURAGE-MD:~<base64>  # Replace with your actual session string
       - key: NODE_VERSION
         value: 20
