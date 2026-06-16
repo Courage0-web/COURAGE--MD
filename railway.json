@@ -1,7 +1,7 @@
 {
-  "name": "June-X Ultra",
+  "name": "COURAGE-MD",
   "description": "Professional WhatsApp Bot with auto-session authentication",
-  "repository": "https://github.com/Vinpink2/June-Ultra",
+  "repository": "https://github.com/Courage0-web",
   "build": {
     "builder": "NIXPACKS",
     "buildCommand": "npm install"
@@ -13,7 +13,7 @@
   },
   "variables": {
     "SESSION_ID": {
-      "description": "REQUIRED: Your session ID. Must begin with 'Ultra-X:~'",
+      "description": "REQUIRED: Your session ID. Must begin with 'COURAGE-MD:~'",
       "required": true
     }
   }
