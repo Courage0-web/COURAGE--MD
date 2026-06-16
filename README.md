@@ -1,13 +1,13 @@
 <div align="center"> 
-  <strong>𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔</strong>
+  <strong COURAGE-MD</strong>
   <br>
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+Supreme" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Courage-Official;Multi+Device+Whatsapp+Bot;Made+by+Supreme" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <img src="https://i.ibb.co/PzZPCy4m/upload-1777031446938-c2f61fb6-jpg.jpg" alt="JUNE X" height="240"> 
+  <img src="https://i.ibb.co/PzZPCy4m/upload-1777031446938-c2f61fb6-jpg.jpg" alt="COURAGE" height="240"> 
 </div>
 
 ---
@@ -16,20 +16,20 @@
 
 ---
 
-> FORK JUNE X ULTRA BOT
+> FORK COURAGE-MD BOT
 <div align="center">    
-  <a href="https://github.com/Vinpink2/June-Ultra/fork">
-    <img src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="Deploy June-X"/>
+  <a href="https://github.com/Courage0-web">
+    <img src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="Deploy COURAGE-MD"/>
   </a>
 </div>
 
 ---
 
-> DEPLOY JUNE X ULTRA BOTs
+> DEPLOY COURAGE-MD BOTs
 
 <p align="center">
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/vinpink2/June-Ultra">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Courage0-web">
 <img src="https://img.shields.io/badge/HEROKU-6762A6?style=for-the-badge&logo=heroku"/>
 </a>
 
@@ -45,7 +45,7 @@
 
 ---
 
-> JUNE-X ULTRA SESSION PAIRING
+> COURAGE-MD SESSION PAIRING
 <p align="center">
   <a href="https://june-pair-df7f96eab817.herokuapp.com/pair" target="_blank">
     <img alt="Pair Code 1" src="https://img.shields.io/badge/PAIR%20CODE%201-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
@@ -66,9 +66,9 @@
 
 ---
 
-> 𝗝𝗨𝗡𝗘-𝗫 𝗨𝗟𝗧𝗥𝗔 ZIP
+> COURAGE-MD ZIP
 <p align="center">
-  <a href="https://github.com/Vinpink2/June_X_Ultra/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://github.com/Courage0-web/archive/refs/heads/main.zip" target="_blank">
     <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD%20ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
   </a>
 </p>
