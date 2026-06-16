@@ -1,9 +1,9 @@
 {
-  "name": "June X Ultra",
-  "description": "June X Ultra - WhatsApp MD Multi-Device Bot powered by Baileys",
-  "repository": "https://github.com/Vinpink2/June-Ultra",
+  "name": "COURAGE-MD",
+  "description": "COURAGE-MD - WhatsApp MD Multi-Device Bot powered by Baileys",
+  "repository": "https://github.com/Courage0-web",
   "logo": "",
-  "keywords": ["whatsapp", "baileys", "bot", "node", "md", "june-ultra"],
+  "keywords": ["whatsapp", "baileys", "bot", "node", "md", "COURAGE-MD"],
   "stack": "heroku-26",
   "buildpacks": [
     {
@@ -18,7 +18,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "June X Ultra session string. Accepted formats: JUNE-MD:~, Ultra-X:~, June-Ultra:~",
+      "description": "COURAGE-MD session string. Accepted formats: JUNE-MD:~, Ultra-X:~, June-Ultra:~",
       "required": true,
       "value": ""
     }
